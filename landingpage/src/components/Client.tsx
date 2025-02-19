@@ -15,7 +15,7 @@ function Client() {
             </h2>
             <p className="font-medium text-md text-secondary">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Consectetur labore odio sit?
+              Consectetur labore odio sit??
             </p>
           </div>
         </div>
